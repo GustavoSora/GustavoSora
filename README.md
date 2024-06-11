@@ -2,7 +2,7 @@
 
 ### Estou cursando Engenharia de Software 1/8 e meu objetivo é me tornar um desenvolvedor back-end.
 
- <p>Atualmente estou estudando as linguagens C, Python e JavaScrpit📚💻</p>
+ <p>Atualmente estou estudando as linguagens C e JavaScrpit📚💻</p>
  <p>Atualmente em busca de uma oportunidade de de trabalho🧑‍💻</p>
 
 <div style="display: inline_block"><br>
