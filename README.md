@@ -1,15 +1,16 @@
 # Olá! sou Gustavo Sora, estudante de programação. 👋
 
-### Estou cursando Engenharia de Software 1/8 e meu objetivo é me tornar um desenvolvedor back-end.
+### Estou cursando Engenharia de Software 2/8
 
- <p>Atualmente estou estudando as linguagens C e JavaScrpit📚💻</p>
- <p>Atualmente em busca de uma oportunidade de de trabalho🧑‍💻</p>
+ <p>Atualmente estou estudando a linguagem Java 📚💻</p>
+ <p>Em busca de uma oportunidade de de trabalho🧑‍💻</p>
 
 <div style="display: inline_block"><br>
 
  <img class="lang" align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
  <img class="lang" align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img class="lang" align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img class="lang" align="center" alt="css" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
           
 </div>
 
