@@ -3,7 +3,6 @@
 ### Majoring in Software Engineering at Catolica SC (3rd semester)
 
  <p>Studying to become a Full Stack Developer  📚💻</p>
- <p>Searching for work opportunities 🧑‍💻</p>
 
 
 #### **Stats**
