@@ -9,9 +9,11 @@
 <a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSora&layout=compact&langs_count=16&theme=dracula"></a>
 <div style="display: inline_block"><br>
 
+ <img class="lang" align="center" alt="typescript" height="40" width="50" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
+ <img class="lang" align="center" alt="react" height="40" width="50" src="https://devicon-website.vercel.app/api/react/original.svg" />
  <img class="lang" align="center" alt="python" height="40" width="50" src="https://devicon-website.vercel.app/api/python/original.svg" />
  <img class="lang" align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img class="lang" align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img class="lang" align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  <img class="lang" align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img class="lang" align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
