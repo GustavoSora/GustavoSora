@@ -1,6 +1,6 @@
 # Hello! I'm Gustavo Sora, a Software Engineering student from Brazil. 👋
 
-### Majoring in Software Engineering at Catolica SC (3rd semester)
+### Majoring in Software Engineering at Catolica SC (4rd semester)
 
  <p>Studying to become a Full Stack Developer  📚💻</p>
 
