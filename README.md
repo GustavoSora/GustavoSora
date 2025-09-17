@@ -6,7 +6,7 @@
 
 
 #### **Stats**
-<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSora&layout=compact&langs_count=16&theme=dracula"></a>
+<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSora&layout=compact&langs_count=16"></a>
 <div style="display: inline_block"><br>
 
 ### Skills
