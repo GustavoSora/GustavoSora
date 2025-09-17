@@ -4,6 +4,11 @@
 
  <p>Studying to become a Full Stack Developer  📚💻</p>
 
+
+#### **Stats**
+<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSora&layout=compact&langs_count=16&theme=dracula"></a>
+<div style="display: inline_block"><br>
+
 ### Skills
  <img class="lang" align="center" alt="typescript" height="40" width="50" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
  <img class="lang" align="center" alt="react" height="40" width="50" src="https://devicon-website.vercel.app/api/react/original.svg" />
@@ -28,5 +33,3 @@
   <a href = "mailto:sorahgustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-sora-1a65782a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
