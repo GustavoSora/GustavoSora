@@ -4,11 +4,6 @@
 
  <p>Studying to become a Full Stack Developer  📚💻</p>
 
-
-#### **Stats**
-<a href="Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSora&layout=compact&langs_count=16"></a>
-<div style="display: inline_block"><br>
-
 ### Skills
  <img class="lang" align="center" alt="typescript" height="40" width="50" src="https://devicon-website.vercel.app/api/typescript/original.svg" />
  <img class="lang" align="center" alt="react" height="40" width="50" src="https://devicon-website.vercel.app/api/react/original.svg" />
