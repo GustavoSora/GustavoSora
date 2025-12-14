@@ -5,7 +5,6 @@
  <p>Studying to become a Full Stack Developer  📚💻</p>
 
 
-#### **Stats**
 <div style="display: inline_block"><br>
 
 ### Skills
