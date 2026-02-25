@@ -1,10 +1,15 @@
 # Hello! I'm Gustavo Sora, a Software Engineering student from Brazil. 👋
 
-### Majoring in Software Engineering at Catolica SC (4rd semester)
+### Majoring in Software Engineering at Catolica SC (5rd semester)
 
- <p>Studying to become a Full Stack Developer  📚💻</p>
-
-
+ <p>Studying to become a Full Stack Developer</p>
+ <p>
+   Working at 
+   <a href="https://www.linkedin.com/company/sia-inteligencia/">
+     SIA
+   </a>
+ </p>
+ 
 <div style="display: inline_block"><br>
 
 ### Skills
@@ -27,7 +32,7 @@
 ##
  
 <div>
-  <a href="https://www.instagram.com/gustavosora_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.instagram.com/gustavosora_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:sorahgustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-sora-1a65782a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
