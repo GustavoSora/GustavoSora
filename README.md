@@ -3,12 +3,6 @@
 ### Majoring in Software Engineering at Catolica SC (5rd semester)
 
  <p>Studying to become a Full Stack Developer</p>
- <p>
-   Working at 
-   <a href="https://www.linkedin.com/company/sia-inteligencia/">
-     SIA
-   </a>
- </p>
  
 <div style="display: inline_block"><br>
 
