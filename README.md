@@ -1,4 +1,4 @@
-# Hello! I'm Gustavo Sora, a Software Engineering student from Brazil. 👋
+# <img src="./banner.png" alt="Welcome to Gustavo's GitHub">
 
 ### Majoring in Software Engineering at Catolica SC (2024-2027)
 
